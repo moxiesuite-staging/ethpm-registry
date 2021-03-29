@@ -1,4 +1,4 @@
-# EthPM Registry
+# VapPM Registry
 
 Create a new EthPM registry on chain, and provide a library for integration with EthPM.
 
